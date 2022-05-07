@@ -1,5 +1,5 @@
 {
-  "name": "@jsxbook/local-client",
+  "name": "@tsxbook/local-client",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
@@ -66,5 +66,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "0ee3e0ff0cb48d34a041a1d6065e7a574b709341"
 }
